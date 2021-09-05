@@ -188,7 +188,6 @@ int main()
 	graph->edge[12].weight = 6;
 
 
-	// Function call
 	KruskalMST(graph);
 
 	return 0;
