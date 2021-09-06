@@ -1,4 +1,4 @@
-// A C++ program for Prim's Minimum
+//C++ program for Prim's Minimum
 #include <bits/stdc++.h>
 using namespace std;
 

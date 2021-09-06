@@ -1,4 +1,4 @@
-// Simple C++ implementation for Kruskal's
+//C++ implementation for Kruskal's
 #include <bits/stdc++.h>
 using namespace std;
 
